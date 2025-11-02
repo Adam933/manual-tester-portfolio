@@ -18,7 +18,7 @@ Na podstawie specyfikacji:
 
 ## 🧪 Przypadki testowe
 Stworzyłem kilka przypadków testowych w środowisku **TestRail**:  
-[📂 Przypadki-testowe](./Przypadki-testowe)
+[📂 Przypadki-testowe](./Test case)
 
 ---
 
