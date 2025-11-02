@@ -40,7 +40,7 @@ Ostatnim zadaniem było zgłoszenie błędów na podstawie zgłoszeń użytkowni
 [📂 Bug reports - user ticket](./Bug%20reports%20-%20user%20ticket)
 
 <p align="center">
-  <img src="./asset/User tickets.png" alt="Zgłoszenia użytkowników" style="max-width: 50%;"/>
+  <img src="./asset/User tickets.png" alt="Zgłoszenia użytkowników" width="50%"/>
 </p>
 
 ---
