@@ -30,13 +30,13 @@ W trakcie **testów eksploracyjnych** na testowanej aplikacji:
 ---
 
 ## 🐞 Zgłoszenia błędów
-Wykonałem zgłoszenia błędów aplikacji w środowisku **Jira**:  
+Wykonałem zgłoszenia znaleznionych błędów w środowisku **Jira**:  
 [📂 Bug reports](./Bug%20reports%20-%20exploratory%20testing)
 
 ---
 
 ## 👥 Zgłoszenia użytkowników
-Ostatnim zadaniem było zgłoszenie błędów na podstawie zgłoszeń użytkowników:  
+Ostatnim zadaniem było przeanalizowanie i zgłoszenie błędów na podstawie zgłoszeń użytkowników:  
 [📂 Bug reports - user ticket](./Bug%20reports%20-%20user%20ticket)
 
 <p align="center">
