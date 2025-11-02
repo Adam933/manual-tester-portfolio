@@ -43,13 +43,3 @@ Ostatnim zadaniem było przeanalizowanie i zgłoszenie błędów na podstawie zg
   <img src="./asset/User tickets.png" alt="Zgłoszenia użytkowników" width="50%"/>
 </p>
 
----
-
-## 📌 Podsumowanie
-- Dokumentacja przypadków testowych ✅  
-- Testy eksploracyjne 🔍  
-- Zgłoszenia błędów w Jira 🐞  
-- Analiza zgłoszeń od użytkowników 👥  
-
----
-
