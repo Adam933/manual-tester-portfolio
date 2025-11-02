@@ -5,8 +5,8 @@ Portfolio zawiera rezultat udziału w **QA Maratonie [15.01.2024]**.
 ---
 
 ## 📄 Specyfikacja
-Na podstawie specyfikacji:
-[Specyfikacja projektu](https://faq-qa.m.goit.global/pl/?ssid=65a4d503e2edcd11923df9f0&cookie_id=1f7bf732b2634ec691b0e309943969a1&block_id=6446d433d3ac67261ac974ec&leeloo_account_id=65a4d503e2edcd3c793df9d3&utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&utm_term=651593759744&utm_content=150663570641)
+Na podstawie 
+[Specyfikacji projektu](https://faq-qa.m.goit.global/pl/?ssid=65a4d503e2edcd11923df9f0&cookie_id=1f7bf732b2634ec691b0e309943969a1&block_id=6446d433d3ac67261ac974ec&leeloo_account_id=65a4d503e2edcd3c793df9d3&utm_source=google&utm_medium=OR_PL&utm_campaign=OR_PL_QA_Marathon_Search&utm_term=651593759744&utm_content=150663570641)
 
 <p align="center">
   <img src="./asset/Specyfikacja.png" alt="Specyfikacja testowanej aplikacji"/>
