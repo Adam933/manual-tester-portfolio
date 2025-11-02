@@ -1,6 +1,4 @@
-# manual-tester-portfolio
-
-# 🎯 Portfolio QA Marathon
+# 🎯 Portfolio
 
 Portfolio zawiera rezultat udziału w **QA Maratonie [15.01.2024]**.
 
@@ -27,22 +25,22 @@ W trakcie **testów eksploracyjnych** na testowanej aplikacji:
 [💻 Testowana aplikacja](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917)
 
 <p align="center">
-  <img src="./asset/Aplikacja.png" alt="Specyfikacja testowanej aplikacji"/>
+  <img src="./asset/Aplikacja.png" alt="Testowana aplikacji"/>
 </p>
 ---
 
 ## 🐞 Zgłoszenia błędów
 Wykonałem zgłoszenia błędów aplikacji w środowisku **Jira**:  
-[📂 Bug reports](./Bug-reports)
+[📂 Bug reports](./Bug%20reports%20-%20exploratory%20testing)
 
 ---
 
 ## 👥 Zgłoszenia użytkowników
 Ostatnim zadaniem było zgłoszenie błędów na podstawie zgłoszeń użytkowników:  
-[📂 Bug reports - user ticket](./Bug-reports-user-ticket)
+[📂 Bug reports - user ticket](./Bug%20reports%20-%20user%20ticket)
 
 <p align="center">
-  <img src="./asset/User tickets.png" alt="Specyfikacja testowanej aplikacji"/>
+  <img src="./asset/User tickets.png" alt="Zgłoszenia użytkowników"/>
 </p>
 
 ---
@@ -55,4 +53,3 @@ Ostatnim zadaniem było zgłoszenie błędów na podstawie zgłoszeń użytkowni
 
 ---
 
-> Portfolio pokazuje pełen cykl testowania: od **planowania przypadków testowych**, przez **testy eksploracyjne**, po **zgłoszenia błędów i analizę raportów użytkowników**.
