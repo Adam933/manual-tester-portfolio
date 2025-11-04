@@ -15,14 +15,14 @@ Na podstawie
 ---
 
 ## 🧪 Przypadki testowe
-Stworzyłem kilka przypadków testowych w środowisku **TestRail**:  
+stworzyłem kilka przypadków testowych w środowisku **TestRail**:  
 [📂 Przypadki-testowe](./Test%20case)
 
 ---
 
 ## 🔍 Testy eksploracyjne
-W trakcie **testów eksploracyjnych** na testowanej aplikacji:  
-[💻 Testowana aplikacja](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917)
+W trakcie **testów eksploracyjnych** na  
+[💻 Testowanej aplikacji](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917)
 
 <p align="center">
   <img src="./asset/Aplikacja.png" alt="Testowana aplikacji"/>
@@ -30,7 +30,7 @@ W trakcie **testów eksploracyjnych** na testowanej aplikacji:
 ---
 
 ## 🐞 Zgłoszenia błędów
-Wykonałem zgłoszenia znaleznionych błędów w środowisku **Jira**:  
+wykonałem zgłoszenia znaleznionych błędów w środowisku **Jira**:  
 [📂 Bug reports](./Bug%20reports%20-%20exploratory%20testing)
 
 ---
